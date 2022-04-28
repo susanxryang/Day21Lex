@@ -1,3 +1,8 @@
+/*!
+* Start Bootstrap - Lex v6.0.6 (undefined)
+* Copyright 2013-2022 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/lex-day21/blob/master/LICENSE)
+*/
 //
 // Scripts
 // 
