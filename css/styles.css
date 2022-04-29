@@ -11353,7 +11353,7 @@ section {
  * Last Build: Tue Nov 14 2017 12:40:57
  */
 .device-wrapper {
-  max-width: 300px;
+  /* max-width: 300px; */
   width: 100%;
 }
 
@@ -11408,7 +11408,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+  background-image: url("../assets/img/park.jpeg");
   background-position: center;
   background-size: cover;
 }
@@ -11504,7 +11504,7 @@ section.cta:before {
   }
   .features-device-mockup .device-wrapper {
     max-width: 15rem;
-    margin-left: auto;
+    /* margin-left: auto; */
   }
 }
 @media (min-width: 1200px) {
